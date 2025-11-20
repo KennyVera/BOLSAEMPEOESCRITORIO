@@ -57,6 +57,7 @@ namespace REDEMPLEO
             frm.StartPosition = FormStartPosition.CenterScreen;
             frm.Show();
             this.Hide();
+
         }
     }
 }
