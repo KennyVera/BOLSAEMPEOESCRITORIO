@@ -23,6 +23,7 @@ namespace REDEMPLEO
         private void btn_Miperfil_Click(object sender, EventArgs e)
         {
             abrir.AbrirFormEnPanel(new FrmPerfil_());
+
         }
     }
 }
