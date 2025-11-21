@@ -36,7 +36,7 @@ namespace REDEMPLEO
                 }
                 else if (log.RolObtenido == "empresa")
                 {
-                    frmPerfilEmpresa frmEMPRE = new frmPerfilEmpresa();
+                    FrmEmpresa frmEMPRE = new FrmEmpresa();
                     frmEMPRE.Show();
                     this.Hide();
                     //frmAdministrador frm = new frmAdministrador();

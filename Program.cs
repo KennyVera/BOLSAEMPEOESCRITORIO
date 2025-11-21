@@ -16,8 +16,8 @@ namespace REDEMPLEO
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_RegistroPostulante());
-            //Application.Run(new Inicio_sesion());
+           // Application.Run(new frm_RegistroPostulante());
+            Application.Run(new Inicio_sesion());
         }
     }
 }

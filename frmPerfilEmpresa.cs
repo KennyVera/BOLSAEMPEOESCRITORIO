@@ -16,5 +16,8 @@ namespace REDEMPLEO
         {
             InitializeComponent();
         }
+        //llamar datos de la empresa
+
+
     }
 }

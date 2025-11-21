@@ -19,7 +19,7 @@ namespace REDEMPLEO
        
         private void Form1_Load(object sender, EventArgs e)
         {
-            // COMENTARIO EN FORMS
+            // COMENTARIO EN FORMS 
         }
 
         private void btn_RegistraPostulante_Click(object sender, EventArgs e)

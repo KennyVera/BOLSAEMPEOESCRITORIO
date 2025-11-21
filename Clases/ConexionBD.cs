@@ -13,7 +13,8 @@ namespace REDEMPLEO
         private SqlConnection conexion;
 
         // Cambia los valores según tu servidor y base de datos
-        private string cadena = @"Server=DESKTOP-I8UU101\SQLEXPRESS;Database=BOLSAEMPLEO;User Id=KENNYDY;Password=123456;";
+        // private string cadena = @"Server=DESKTOP-I8UU101\SQLEXPRESS;Database=BOLSAEMPLEO;User Id=KENNYDY;Password=123456;";
+        private string cadena = @"Server=HP\SQLEXPRESS;Database=BOLSAEMPLEO;User Id=Heiner;Password=12345;";
 
         public SqlConnection AbrirConexion()
         {

@@ -12,6 +12,7 @@ namespace REDEMPLEO
 {
     public partial class FrmPerfil_ : Form
     {
+        //cambiar nombre del form
         public FrmPerfil_()
         {
             InitializeComponent();
